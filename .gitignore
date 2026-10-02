@@ -23,3 +23,11 @@ vendor/
 # OS
 .DS_Store
 Thumbs.db
+
+# Maelstrom test output
+store/
+
+# Linux binaries
+unique-ids
+maelstrom-echo
+
